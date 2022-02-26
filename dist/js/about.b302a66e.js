@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdjango_refresher_vue"]=self["webpackChunkdjango_refresher_vue"]||[]).push([[443],{5834:function(e,n,r){r.r(n),r.d(n,{default:function(){return h}});var u=r(3396);const a={class:"about"},s=(0,u._)("h1",null,"This is an about page",-1),t=[s];function c(e,n){return(0,u.wg)(),(0,u.iD)("div",a,t)}var o=r(89);const f={},i=(0,o.Z)(f,[["render",c]]);var h=i}}]);
+//# sourceMappingURL=about.b302a66e.js.map
